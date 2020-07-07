@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Repository\C++ Projects\Sorting Vectors\Sorting Vectors\Source.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Sorting Vectors.vcxproj -> D:\Repository\C++ Projects\Sorting Vectors\Debug\Sorting Vectors.exe
